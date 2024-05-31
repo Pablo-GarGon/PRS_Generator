@@ -4,8 +4,8 @@ Run the bash script PRS_generator.sh. This will extract the genetic info and cal
 This script is programmed to use PLINK2 pgen files to extract genetic information. In case your input data is in a different format, convert to pgen or edit the script.
 
 EXAMPLE FILES:
-List (.txt) of variants to use, corresponding with the IDs on your genetic file. Example: GWS_Intelligence_DAVIES_2018_variantsforPRS.txt
-Summary Statistics Table. Example: Summary_statistics_GWS_Intelligence_DAVIES_2018.txt
+    List (.txt) of variants to use, corresponding with the IDs on your genetic file. Example: GWS_Intelligence_DAVIES_2018_variantsforPRS.txt
+    Summary Statistics Table. Example: Summary_statistics_GWS_Intelligence_DAVIES_2018.txt
 
 Columns needed in Summary Statistics file:
 

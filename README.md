@@ -2,7 +2,7 @@ INPUTS:
 
 Run the bash script PRS_generator.sh. This will extract the genetic info and call the R script which will perform the PRS calculations.
 This script is programmed to use PLINK2 pgen files to extract genetic information. In case your input data is in a different format, convert to pgen or edit the script.
-**You should always used a pruned list of independent variants for the PRS calculation**
+**If you are using this code, you should always used a pruned list of independent variants for the PRS calculation**
 
 EXAMPLE FILES:
 
